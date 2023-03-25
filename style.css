@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(255, 191, 155) ;
+}
+header {
+    background-color: rgb(180, 96, 96);
+}
+
+section{
+    background-color: rgb(246, 225, 195);
+}
+body {
+    font-family: 'Bangers', serif ;
+}
+h1 {
+    font-size: 60px;
+}
+h2, h3 {
+    color: rgb(77, 77, 77);
+}
+a {
+    font-size: 24px;
+    color: rgb(89, 0, 95);
+}
+article{
+    font-size: 20px ;
+}
